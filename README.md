@@ -1,16 +1,26 @@
-## Hi there 👋
+### <Fullstack Software Engineer/>
+---
 
-<!--
-**Bigpotatozz/Bigpotatozz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My Toolbox
 
-Here are some ideas to get you started:
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | JavaScript (ES6+), TypeScript, Java, C# |
+| **Frontend** | React, Angular|
+| **Backend** | NestJS, Node.js, ASP.NET Core, Spring|
+| **Mobile** | Android (Jetpack Compose / XML)|
+| **Database** | SQL, NoSQL|
+| **Cloud & Dev** | AWS (Learning), Render, Git |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### AI & Machine Learning Focus
+* **Neural Networks:** Designing and implementing AI neurons and neural architectures.
+* **Continuous Learning:** Deep diving into ML algorithms, data patterns, and predictive modeling.
+* **Applied AI:** Integrating intelligent features and LLM APIs into fullstack applications.
+
+---
+
+### Current Focus & Interests
+* **Server-Side Architecture:** Building robust and high-performance backends.
+* **Cloud Computing:** Mastering AWS infrastructure and serverless deployments.
