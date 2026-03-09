@@ -9,7 +9,7 @@
 | **Frontend** | React, Angular|
 | **Backend** | NestJS, Node.js, ASP.NET Core, Spring|
 | **Mobile** | Android (Jetpack Compose / XML)|
-| **Database** | SQL, NoSQL|
+| **Database** | MySQL, PostgreSQL, SQL server, MongoDB|
 | **Cloud & Dev** | AWS (Learning), Render, Supabase, Git |
 
 ---
