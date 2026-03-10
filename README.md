@@ -24,3 +24,8 @@
 ### Current Focus & Interests
 * **Server-Side Architecture:** Building robust and high-performance backends.
 * **Cloud Computing:** Mastering AWS infrastructure and serverless deployments.
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bigpotatozz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bigpotatozz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff"/>
+</p>
