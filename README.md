@@ -30,10 +30,3 @@
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bigpotatozz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff"/>
 </p>
 
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bigpotatozz/Bigpotatozz/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bigpotatozz/Bigpotatozz/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Bigpotatozz/Bigpotatozz/output/github-snake.svg"/>
-</picture>
